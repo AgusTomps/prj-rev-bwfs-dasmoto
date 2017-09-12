@@ -1,0 +1,42 @@
+h1{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+h3{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+h4{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: helvetica;
+}
+p{
+  font-family: Helvetica;
+}
+.price{
+  font-weight: bold;
+  color: blue;
+}
+.brushes
+h3{
+  background-color: mediumspringgreen;
+}
+.frames
+h3{
+  background-color: lightcoral;
+}
+.paint
+h3{
+  background-color: skyblue;
+}
+.header{
+  background-image: url("file:///C:/Users/Agustin/Desktop/Cursos/Coding/Projects/Dasmoto/css/Resources/pattern.jpeg");
+ background-size: cover;
+ background-position: center;
+}
